@@ -1,0 +1,9 @@
+target/
+nbproject/
+nb-configuration.xml
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+
+### Mac OS ###
+.DS_Store
